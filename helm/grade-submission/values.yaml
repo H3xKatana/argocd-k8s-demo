@@ -1,4 +1,4 @@
-replicaCount: 1
+replicaCount: 3
 
 image:
   repository: rslim087/kubernetes-course-grade-submission-api
